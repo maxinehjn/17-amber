@@ -73,3 +73,19 @@ img {
 }
 
 
+.defiling-container {
+  font-size: 2px;
+  font-family: 'ff-carina', sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  width: 100%;
+}
+
+.defiling-text {
+  white-space: nowrap;
+  animation: ScrollTxt 5s linear infinite;
+}
+
