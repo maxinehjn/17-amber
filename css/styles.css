@@ -89,3 +89,33 @@ img {
   animation: ScrollTxt 5s linear infinite;
 }
 
+@keyframes ScrollTxt {
+  0%{
+    transform: translate(0, 0);
+  }
+  100%{
+    transform: translate(-25%, 0);
+  }
+}
+
+a {
+  text-align: center;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+
+}
+
+
+
+h2 {
+  font-size: 12px;
+  font-family: 'ff-carina', sans-serif;
+  font-size: 25px;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+}
+
+
