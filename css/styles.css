@@ -44,3 +44,32 @@ h1 {
   
 }
 
+.collage-50s {
+  background-color: white;
+  background-image: url(../img/pattern50.png);
+  background-repeat: no-repeat;
+  background-size: 375px;
+  position: relative;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  }
+  
+  .sentence { 
+  width: 200px;
+  transform: translateX(0px);
+  transform: translateY(-50px);
+  }
+  
+  .singer {  
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 200px;
+  margin: 0;
+  }
+
+img {
+  margin-left: 0px;
+}
+
+
