@@ -119,3 +119,45 @@ h2 {
 }
 
 
+.button {
+  color: black;
+  text-align: center;
+  padding: 10px;
+  margin: 70px 70px 70px;
+  border: 2px solid;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'ff-carina', sans-serif;
+  font-size: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.button-sixties {
+  color: black;
+  text-align: center;
+  padding: 10px;
+  margin: 70px 70px 70px;
+  border: 2px solid;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'ff-carina', sans-serif;
+  font-size: 40px;
+  
+}
+
+
+.quote {
+  max-width: 375px;
+  text-align: center;
+  padding: 30px;
+  margin: 5px;
+  font-family: roc-grotesk, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
